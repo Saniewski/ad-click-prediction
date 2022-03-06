@@ -3,8 +3,8 @@ A logistic regression model predicting whether a user will click on an ad.
 
 ## Description
 The `logistic_regression.ipynb` notebook contains:
-* visualization of the data (histograms, jointplots and pairplots showing the relationships between features),
-* model training, making predictions and evaluation of model performance with final insights.
+* visualization of the data (histograms, jointplots, and pairplots showing the relationships between features),
+* model training, making predictions, and evaluation of the model performance with final insights.
 
 ## The Data
 The dataset consists of the following features:
