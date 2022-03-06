@@ -1,4 +1,4 @@
-# ad-click-prediction
+# Ad Click Prediction
 A logistic regression model predicting whether a user will click on an ad.
 
 ## Description
